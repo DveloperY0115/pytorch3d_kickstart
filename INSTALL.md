@@ -95,7 +95,7 @@ conda install pytorch3d -c pytorch3d-nightly
 
 **So my walk around for this problem was to use the third option mentioned in [Pytorch3D INSTALL.md](https://github.com/facebookresearch/pytorch3d/blob/master/INSTALL.md).** 
 
-Since we're using `Python 3.8`, `Pytorch 1.7.1` and `CUDA 11.+`, the command I used was:
+Since I'm using `Python 3.8`, `Pytorch 1.7.1` and `CUDA 11.+`, the command used was:
 
 ```bash
 pip install pytorch3d -f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py38_cu110_pyt171/download.html

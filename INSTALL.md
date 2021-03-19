@@ -30,7 +30,9 @@ After downloading, you can find `.sh` file for Anaconda installation run:
 > (Optional but Recommended) You may want to check whether the downloaded file is corrupted or not. If you do, open a terminal and run:
 `sha256num /path/filename` 
 
-`bash {filename}.sh`
+```bash
+bash {filename}.sh
+```
 
 **NOTE: Use the bash command regardless of whether or not you are using Bash shell.**
 
